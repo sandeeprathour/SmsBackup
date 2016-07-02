@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "972154366479",
+    "firebase_url": "https://project-2403495797667939097.firebaseio.com",
+    "project_id": "project-2403495797667939097",
+    "storage_bucket": "project-2403495797667939097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972154366479:android:b6eca1b8199f7da4",
+        "android_client_info": {
+          "package_name": "com.gmail.sandeeprathour.smsbackup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972154366479-lflan01nauv3punuh1bk11ngjbtqi6nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.sandeeprathour.smsbackup",
+            "certificate_hash": "61BD68E18A0AFAF4FD52F8E0A0CDC592B490987B"
+          }
+        },
+        {
+          "client_id": "972154366479-sm1qe51mnkbf65gve63gpqi39c3tfjrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZYXxbQaRpRjE6Wj_md9d6CvTycKt_jA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
